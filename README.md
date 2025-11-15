@@ -1,10 +1,21 @@
-- 👋 Hi, I’m @Jayendra2688
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning coding
-- 💞️ I’m looking to collaborate on devolpments
-- 📫 How to reach me emails 
+# Hi, I'm Jayendra Reddy
 
-<!---
-Jayendra2688/Jayendra2688 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Backend developer focused on workflow engines, distributed services, and scalable APIs.
+
+I like breaking systems apart to understand how they work, building them back better, and sharpening my thinking through LeetCode and system design practice.
+
+## Tech Stack
+- Python  
+- Django  
+- FastAPI  
+- React  
+
+## Recent Work
+FlowPilot – my in-progress workflow engine  
+https://github.com/Jayendra2688/FlowPilot
+
+## Contact
+LinkedIn: https://www.linkedin.com/in/jayendra-reddy-reddy/  
+Email: jayendrareddy2688@gmail.com  
+
+Happy to discuss ideas or answer questions anytime.
